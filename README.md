@@ -23,4 +23,10 @@ My second iteration of this project involved facial recognition to detect the fa
 
 For my final iteration I went in manually and seperated the nudes with faces from the nudes without faces. I then cropped only the faces to give the viewer a deeper look into how many nudes were faceless and how many were not. I then added a modal so that viewers could click each face and see the full nude it belongs to.
 
+I have included screenshots of the final iteration below:
+
+![](QualImage1.png)
+
+![](QualImage2.png)
+
 The final visualization can be found at https://isabelstoddart.github.io/MS1Qualitative/.
