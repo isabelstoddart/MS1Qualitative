@@ -11,3 +11,4 @@ dataFaces.json
 
 My first iteration of this project explored the different poses the nudes were in. I decided to move past this idea as I wanted to focus on the faces of the nudes, not their poses. I have included a snapchot of the first iteration below.
 
+![](firstIteration.png)
