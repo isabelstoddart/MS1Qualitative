@@ -1,4 +1,4 @@
-# MS1Qualitative
+# Carl Newman's Faceless Nudes
 
 After exploring the Smithsonian API I came across Carl Newman's collection of nudes and immediately was intriqued by how many don't have faces. For this visualization I showed the faces in a close up view to show how many are faceless.
 
