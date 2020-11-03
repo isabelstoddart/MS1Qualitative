@@ -2,7 +2,7 @@
 
 After exploring the Smithsonian API I came across Carl Newman's collection of nudes and immediately was intriqued by how many don't have faces. For this visualization I showed the faces in a close up view to show how many are faceless.
 
-I want to invite the viewer to think of their own reason why these nudes might not have faces and bring awareness to female objectivity in our everyday lives.
+I want to invite the viewer to think of their own reason why these nudes might not have faces while also bringing awareness to female objectivity in our everyday lives.
 
 ### Final dataset used
 dataFaces.json
