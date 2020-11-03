@@ -17,4 +17,10 @@ My first iteration of this project explored the different poses the nudes were i
 
 My second iteration of this project involved facial recognition to detect the faces in Carl Newman's drawings. I decided to step away from the machine learning task because the facial recognition was not accurately picking up on all of the faces in the drawings. This was probably because the software I was using was trained on human faces, not drawn faces. I have included a screen shot of the second iteration below.
 
-![](.png)
+![](FirstIteration.png)
+
+## Final Iteration
+
+For my final iteration I went in manually and seperated the nudes with faces from the nudes without faces. I then cropped only the faces to give the viewer a deeper look into how many nudes were faceless and how many were not. I then added a modal so that viewers could click each face and see the full nude it belongs to.
+
+The final visualization can be found at (link)https://isabelstoddart.github.io/MS1Qualitative/.
