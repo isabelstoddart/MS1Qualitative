@@ -83,7 +83,7 @@ function displayImages(){
         .attr('class', 'image')
         .on("click", function(d){
           console.log("click")
-          showImageModal("/Faces/" + d.fileName  );
+          showImageModal('./Faces/' + d.fileName  );
         })
         .append('img')
         .attr('src', d => {
